@@ -23,7 +23,8 @@ sudo apt update && sudo apt upgrade -y
 ```
 
 ```shell
-apt-get install screen```
+apt-get install screen
+```
 
 ## Rust kurulumu yapın  
 
