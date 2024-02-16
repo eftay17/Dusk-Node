@@ -25,6 +25,10 @@ sudo apt update && sudo apt upgrade -y
 ```shell
 apt-get install screen
 ```
+```shell
+screen -S dusk
+```
+
 
 ## Rust kurulumu yapın  
 
@@ -121,3 +125,13 @@ rusk-wallet stake-info
 
 ![image](https://github.com/HerculesNode/Dusk-Node/assets/101635385/9a572b65-100a-4341-aa70-9ba87a425623)
 
+
+Ctrl + A + D ile screen den cıkın
+
+
+
+
+## Daha sonra screen e gırmek ıcın bu kodu kullanabılırsınız
+```shell
+screen -r dusk
+```
