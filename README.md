@@ -22,7 +22,7 @@ Dusk teşvikli Node kurulum işlemi. Ödül alabilmeniz için;
 sudo apt update && sudo apt upgrade -y
 ```
 
-```
+```shell
 apt-get install screen```
 
 ## Rust kurulumu yapın  
