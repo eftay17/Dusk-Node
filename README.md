@@ -4,11 +4,7 @@ Dusk teşvikli Node kurulum işlemi. Ödül alabilmeniz için;
 - 20 Şubat itibarıyla düğümlerin çalışır durumda olması gerekiyor. Bu, "sayıldığı" ve çalışma süresinin kaydedileceği zamandır
 - 20 Şubat - 15 Mart 2024 arası çalışması gerekiyor.
 
-
-## Linkler
- * [Hercules Telegram](https://t.me/HerculesNode)
- * [Hercules Twitter](https://twitter.com/Herculesnode)
-
+CX21 hetznerde
 ## Sistem özellikleri
 
 Önerilen : 
